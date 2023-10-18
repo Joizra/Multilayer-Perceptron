@@ -1,3 +1,4 @@
 **Deep learning** 
-Classification-DNN
-Immage Classification-CNN
+
+* Classification-DNN
+* Immage Classification-CNN
