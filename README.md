@@ -1,4 +1,3 @@
-**Deep learning** 
+**Stock Open Price prediction using RNN and LSTM** 
 
-* Classification-DNN
-* Immage Classification-CNN
+Since Recurrent Neural Networks (RNNs) have the advantage of processing time series data effectively, they are particularly suitable for forecasting stock prices.
